@@ -1,11 +1,11 @@
-<h1 align="center">Hello there 👋, Rishideep.</h1>
-<h3 align="center">Passionate Full Stack Web Developer</h3>
+<h1 align="center">Hello there 👋, I'm Rishideep.</h1>
+<h3 align="center">A Backend Developer & ML Intern @ Jadavpur University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishideepc&label=Profile%20views&color=0e75b6&style=flat" alt="rishideepc" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infuman69" alt="infuman69" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishideepc" alt="rishideepc" /></a> </p>
 
-[![Soham's github activity graph](https://activity-graph.herokuapp.com/graph?username=rishideepc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Rishideep's github activity graph](https://activity-graph.herokuapp.com/graph?username=rishideepc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 - 🔭 I’m currently working on **an NLP-based event timeline generator, centered around the principles of Data Mining.**
 
@@ -23,12 +23,11 @@
 
 <h3 align="left">Let's connect:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/sohamsaharoy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohamsaharoy1" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/rishideep-chatterjee-5155491ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishideep-chatterjee" height="30" width="40" /></a>
 <a href="https://instagram.com/rishideep117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishideep117" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Frameworks:</h3>
 <p align="left"> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a>
@@ -72,9 +71,13 @@
     </a>
     <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
     </a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+    </a>
 </p>
 
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishideepc&count_private=true&show_icons=true&theme=dark)
+![Rishideep's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishideepc&count_private=true&show_icons=true&theme=dark)
 
 <p>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rishideepc&theme=tokyonight"/></a>
