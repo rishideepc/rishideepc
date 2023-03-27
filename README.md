@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishideepc&label=Profile%20views&color=0e75b6&style=flat" alt="rishideepc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishideepc" alt="rishideepc" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishideepc" alt="rishideepc" /></a> </p> -->
 
 <!-- [![Rishideep's github activity graph](https://activity-graph.herokuapp.com/graph?username=rishideepc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
