@@ -1,5 +1,3 @@
-![android]([http://url/to/img.png](https://e0.pxfuel.com/wallpapers/185/119/desktop-wallpaper-outsource-androidappsdevelopment-services-android-development-services-app-development-pin-logo-android-developer.jpg))
-
 <h1 align="center">Hello there 👋, I'm Rishideep.</h1>
 <h3 align="center">A Backend Developer & ML Intern @ Jadavpur University</h3>
 
