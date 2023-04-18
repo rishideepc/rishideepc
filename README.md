@@ -1,5 +1,5 @@
-<h1 align="center">Hello there 👋, I'm Rishideep.</h1>
-<h3 align="center">A Backend Developer & ML Intern @ Jadavpur University</h3>
+<h1 align="center">Hola! 👋, I'm Rishideep.</h1>
+<h3 align="center">CS Pre-final Year. ML Research. Android.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishideepc&label=Profile%20views&color=0e75b6&style=flat" alt="rishideepc" /> </p>
 
@@ -7,13 +7,13 @@
 
 <!-- [![Rishideep's github activity graph](https://activity-graph.herokuapp.com/graph?username=rishideepc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-- 🔭 I’m currently working on **an NLP-based event timeline generator, centered around the principles of Data Mining.**
+- 🔭 I’m currently working on **a noise-resistant Local Binary Pattern (LBP) descriptor for Texture Recognition, based on the principles of Image Processing.**
 
-- 🌱 I’m currently learning **FastAPI, Firebase, Named-Entity Recognition (NER).**`
+- 🌱 I’m currently learning **Selenium, MongoDB, and Three.js.**
 
 - 👯 I’m looking to collaborate on **Research Projects.**
 
-- 💬 Ask me about **Flask , ML Algorithms , KivyMD AppDev.**
+- 💬 Ask me about **BackendDev, ML Algorithms, Android AppDev.**
 
 - 📫 How to reach me **rishi1a2@gmail.com**
 
@@ -25,12 +25,8 @@
 <a href="https://instagram.com/rishideep117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishideep117" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Frameworks:</h3>
+<h3 align="left">Languages, Frameworks, & Platforms:</h3>
 <p align="left"> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-    </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -69,7 +65,15 @@
     </a>
     <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
     </a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="images/scikit-learn-logo.png" alt="scikit-learn" width="40" height="40"/> 
+    </a>
     <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+    </a>
+    <a href="https://www.linux.org/" target="_blank"rel="noreferrer"> <img src="images/linux-logo.png" alt="linux" width="40"height="40"/> 
+    </a>
+     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+    </a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="images/android-studio-logo.png" alt="android-studio" width="40" height="40"/> 
     </a>
 </p>
 
