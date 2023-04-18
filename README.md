@@ -78,3 +78,5 @@
 <p>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rishideepc&theme=tokyonight"/></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishideepc&show_icons=true&locale=en&layout=compact&theme=dark" alt="rishideepc" /></p>
