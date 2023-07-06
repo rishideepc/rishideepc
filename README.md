@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, I'm Rishideep.</h1>
-<h3 align="center">CS Pre-final Year. ML Research. Android.</h3>
+<h3 align="center">CS Senior Year. ML Research. Android.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishideepc&label=Profile%20views&color=0e75b6&style=flat" alt="rishideepc" /> </p>
 
