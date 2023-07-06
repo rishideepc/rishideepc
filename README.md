@@ -77,7 +77,7 @@
     </a>
 </p>
 
-![Rishideep's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishideepc&count_private=true&show_icons=true&theme=dark)
+<!-- ![Rishideep's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishideepc&count_private=true&show_icons=true&theme=dark) -->
 
 <p>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rishideepc&theme=tokyonight"/></a>
