@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, I'm Rishideep.</h1>
-<h3 align="center">CS Senior Year. ML Research. Android.</h3>
+<h3 align="center">CS Senior Year. ML Research. NLP.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishideepc&label=Profile%20views&color=0e75b6&style=flat" alt="rishideepc" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Research Projects.**
 
-- 💬 Ask me about **BackendDev, ML Algorithms, Android AppDev.**
+- 💬 Ask me about **BackendDev, ML Algorithms, Natural Language Processing.**
 
 - 📫 How to reach me **rishi1a2@gmail.com**
 
