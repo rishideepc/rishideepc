@@ -19,11 +19,11 @@
 
 - ⚡ Fun fact **I work with NCrack in my free time.**
 
-<h3 align="left">Let's connect:</h3>
+<!-- <h3 align="left">Let's connect:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rishideep-chatterjee-5155491ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishideep-chatterjee" height="30" width="40" /></a>
 <a href="https://instagram.com/rishideep117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishideep117" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <!-- <h3 align="left">Languages, Frameworks, & Platforms:</h3>
 <p align="left"> 
