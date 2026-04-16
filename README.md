@@ -1,5 +1,7 @@
 <h1 align="center">Hi! 👋, I'm Rishideep.</h1>
-<h3 align="center">Advanced Computing @ Imperial College London. ML Research. NLP.</h3>
+<!-- <h3 align="center">Advanced Computing @ Imperial College London. ML Research. NLP.</h3> -->
+<h3 align="center">Research Assistant @ Imperial College London, UK Dementia Research Institute</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishideepc&label=Profile%20views&color=0e75b6&style=flat" alt="rishideepc" /> </p>
 
@@ -7,13 +9,15 @@
 
 <!-- [![Rishideep's github activity graph](https://activity-graph.herokuapp.com/graph?username=rishideepc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-- 🔭 I’m currently working on **"Evaluating the explanatory properties of LLMs."**
+- 🔭 I’m currently working on **LEDD trajectory predictions from CPRD & RAG-LLM systems for PPMI medication standardization**
 
-- 🌱 I’m currently learning **Selenium, MongoDB, and Three.js.**
+- 🌱 Master's thesis: **"Evaluating the explanatory properties of LLMs."**
+
+<!-- - 🌱 I’m currently learning **Selenium, MongoDB, and Three.js.** -->
 
 - 👯 I’m looking to collaborate on **Research Projects.**
 
-- 💬 Ask me about **BackendDev, ML Algorithms, Natural Language Processing.**
+- 💬 Ask me about **LLMs, Deep Learning Algorithms, Natural Language Processing, Clinical Datasets**
 
 - 📫 How to reach me **rishi1a2@gmail.com**
 
