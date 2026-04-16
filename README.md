@@ -25,7 +25,7 @@
 <a href="https://instagram.com/rishideep117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishideep117" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages, Frameworks, & Platforms:</h3>
+<!-- <h3 align="left">Languages, Frameworks, & Platforms:</h3>
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a>
@@ -75,7 +75,7 @@
     </a>
     <a href="" target="_blank" rel="noreferrer"> <img src="images/android-studio-logo.png" alt="android-studio" width="40" height="40"/> 
     </a>
-</p>
+</p> -->
 
 <!-- ![Rishideep's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishideepc&count_private=true&show_icons=true&theme=dark) -->
 
